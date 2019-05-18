@@ -6,3 +6,6 @@ Create a minimal toolchain for the Monkey C language based on notepad++ editor
 2. Create Monkey project template
 3. Add build capabilities to notepad ++
 4. Integrate the test env.
+## Files:
+monkeyc.bat --> automate the simulator start up, the compiler and start the app in the simulator(only the beginning)
+monkey-c. --> Notepad++ autocomplete file
