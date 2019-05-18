@@ -8,4 +8,4 @@ Create a minimal toolchain for the Monkey C language based on notepad++ editor
 4. Integrate the test env.
 ## Files:
 monkeyc.bat --> automate the simulator start up, the compiler and start the app in the simulator(only the beginning)
-monkey-c. --> Notepad++ autocomplete file
+monkey-c.xmk --> Notepad++ autocomplete file in UDL 2 format
